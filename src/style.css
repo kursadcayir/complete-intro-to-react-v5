@@ -83,7 +83,7 @@ body {
   margin: 0;
   text-overflow: ellipsis;
 }
-
+ 
 a > header,
 #root > div > h1 {
   display: inline-block;

@@ -5,7 +5,7 @@ import Searchparams from "./SearchParams";
 import Details from "./Details";
 import {Router, Link} from '@reach/router';
 const App = () => {
-  return (
+  return ( 
     
    <div>
        <Link to="/">

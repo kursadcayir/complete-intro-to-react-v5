@@ -2,7 +2,7 @@ import React from "react";
 
 
 const Details = (props) => {
-    return(
+    return( 
         <pre>
             <code>
                 {JSON.stringify(props,null,4)}

@@ -5,7 +5,7 @@ let  hero = 'https://placecorgi.com/300/300';
 
 if (media.length)
     hero = media[0].small;
-
+ 
 return ( 
     <a href ={`/details/${id}`} className="pet">
         <div className="image-container">
